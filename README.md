@@ -21,3 +21,5 @@ Sklearn.
 Aprendizaje Supervisado.
 
 Aprendizaje No Supervisado.
+
+TP Integrador: se puso en práctica la regresión linea y la clasificación por árboles de decisiones.
